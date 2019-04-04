@@ -1,0 +1,46 @@
+{
+  "name": "validator-builder",
+  "version": "0.0.8",
+  "main": "build/index.js",
+  "author": "Jack Chan",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.3",
+    "babel-loader": "^8.0.5",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "@jack5241027/eslint-config": "^0.1.5",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-import-resolver-babel-module": "^5.0.1",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-no-mixed-operators": "^1.1.1",
+    "eslint-plugin-react": "^7.12.4",
+    "jest": "^23.6.0",
+    "jest-styled-components": "^5.0.1",
+    "prettier": "1.14.3",
+    "prettier-eslint-cli": "^4.7.1",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "forms",
+    "input",
+    "fields",
+    "simple",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jack5241027/validator-builder"
+  }
+}
