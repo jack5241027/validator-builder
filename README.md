@@ -105,7 +105,7 @@ const strategies = generateStrategy({
   overMaxLength: (val, max) => val.length <= max,
 });
 
-const validator = new ValidatorMediator({
+const validator = new ValidatorBuilder({
   defaultErrorSet: {
     [strategies.isEmpty]: 'No Empty.',
     [strategies.isEmail]: 'Wrong Format.',
