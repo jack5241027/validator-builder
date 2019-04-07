@@ -638,10 +638,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@jack5241027/eslint-config@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@jack5241027/eslint-config/-/eslint-config-0.1.5.tgz#a4107295a0b0b026450ffa446bf0d0023153f9a5"
-  integrity sha512-6S3DtpeHYB47/9yjkdDHPWT947l6TBsd8mVYJXyfCxSiEfxxfgyTh4B5owziKg7ntYELso9ImKFY4lCm79NVLw==
+"@jack5241027/eslint-config@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@jack5241027/eslint-config/-/eslint-config-0.1.6.tgz#3e3a55f967076f5efd9df56d7539428cf6d54188"
+  integrity sha512-6F5l4ieh0d4OfC05EaXnHaNDXArrt5jeyqZ4irYh40ijFfGoKM97e8H19Uo8qG0WUEZVmyT7bGzVlxI3duJ24g==
 
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
@@ -2512,6 +2512,11 @@ eslint-plugin-no-mixed-operators@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-no-mixed-operators/-/eslint-plugin-no-mixed-operators-1.1.1.tgz#591dceb183fa4ba093e36b28f5263fb7c75430d3"
   integrity sha512-KN4xHa+yZnsfsdmjCP8eCcfdAMXDaphn5Mdnre3b6pRDfAJc3pGXq0Wbl+RfrpjkxA3KlGku1BVwTvHlG5KNpA==
+
+eslint-plugin-react-hooks@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-1.6.0.tgz#348efcda8fb426399ac7b8609607c7b4025a6f5f"
+  integrity sha512-lHBVRIaz5ibnIgNG07JNiAuBUeKhEf8l4etNx5vfAEwqQ5tcuK3jV9yjmopPgQDagQb7HwIuQVsE3IVcGrRnag==
 
 eslint-plugin-react@^7.12.4:
   version "7.12.4"
