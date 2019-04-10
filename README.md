@@ -94,7 +94,7 @@ validator.getStateByFieldName(filedName) => ({
 ## Example
 
 ```javascript
-import ValidatorMediator, { generateStrategy } from 'validator-builder';
+import ValidatorBuilder, { generateStrategy } from 'validator-builder';
 
 const strategies = generateStrategy({
   isEmpty: val => val !== undefined && val !== null && Boolean(val) !== false,
